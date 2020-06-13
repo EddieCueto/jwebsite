@@ -155,3 +155,9 @@ td {
 table tbody tr td {
  border:1px solid lightgray
 }
+
+/* Ed's styles */
+
+.start-img {
+    height: 5em;
+}
