@@ -1,7 +1,3 @@
-# Franklin Docs
+# Eddie's Blog
 
-Website for [Franklin.jl](https://github.com/tlienart/Franklin.jl).
-
-## Dev note
-
-No prerendering (due to tricky code environments that get destroyed by highlight.js).
+Website for Eduardo Cueto Mendoza
