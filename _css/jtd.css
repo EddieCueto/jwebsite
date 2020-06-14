@@ -73,7 +73,8 @@ code{
   line-height:1.4;
     padding:0.2em 0.15em;
     font-weight:400;
-    background-color:#f5f6fa;
+    /*background-color:#f5f6fa;*/
+    background-color: #ffffff;
     border:1px solid #eeebee;
     border-radius:4px;
 }
@@ -118,7 +119,7 @@ SIDE BAR
   z-index: 100;
   display: flex;
   flex-wrap: wrap;
-  background-color:#f5f6fa;
+  background-color: #b9cfe4;
 }
 .side-bar .header {
   display: flex;
@@ -244,9 +245,11 @@ input[type=checkbox]:checked ~ #side-menu{display: block;}
   .side-bar .menu {
     display: none;
     padding-left:35px;
-    padding-bottom:15px;}
+    padding-bottom:15px;
+  }
   .side-bar {
     border-bottom: 1px solid #eeebee;
+    background-color: #b9cfe4;
   }
   .side-bar .header {
     padding-left: 15px;
@@ -298,7 +301,8 @@ input[type=checkbox]:checked ~ #side-menu{display: block;}
     padding-top:3rem;
     padding-bottom:1rem;
     overflow-y:auto;
-    flex:1 1 auto
+    flex:1 1 auto;
+    /*background-color: #0E39B0;*/
   }
   .side-bar .footer{
     padding-right:2rem;
@@ -332,7 +336,8 @@ MAIN CONTENT
     height: 100%;
     -webkit-overflow-scrolling: touch;
     overflow-x: hidden;
-    overflow-y: scroll
+    overflow-y: scroll;
+    background-color: #e8ecef;
   }
   .main-content{
     position:relative;
@@ -352,14 +357,15 @@ MAIN CONTENT
   display:none;
   /* padding-top:1rem; */
   /* padding-bottom:1rem; */
-  background-color:#f5f6fa;
+  background-color: #e8ecef;
   height: 60px;
   line-height: 60px;
 }
 @media (min-width: 50rem){
   .main-header{
     padding-right:2rem;
-    padding-left:2rem
+    padding-left:2rem;
+    background-color: #e8ecef;
   }
 }
 @media (min-width: 50rem){
@@ -367,7 +373,7 @@ MAIN CONTENT
     display:flex;
     justify-content:flex-end;
     height: -1em;
-    background-color:#fff;
+    background-color: #e8ecef;
     border-bottom:1px solid #eeebee;
   }
 }
@@ -610,7 +616,7 @@ ul.menu-list-child-list a.menu-list-link {
 }
 
 #lunrSearchForm {
-  margin-top: 1em;
+  margin-top: 13em;
 }
 
 /* .pagination {
@@ -744,4 +750,10 @@ ul.menu-list-child-list a.menu-list-link {
   width: 50%;
   margin-left: auto;
   margin-right: auto;
+}
+
+#title-header {
+  margin-top: -1.9em;
+  margin-right: 2em;
+  color: #6b7a99;
 }

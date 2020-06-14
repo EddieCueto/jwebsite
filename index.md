@@ -28,6 +28,10 @@ function len(p::T) where T<:Point
 end
 ```
 
+## A bit about myself
+
+My interest in science started from a very early age I was in love with physics because a teacher in elementary school had a copy of the book `COSMOS` which he lend me and I was marveled by the words of [Carl Sagan](https://en.wikipedia.org/wiki/Carl_Sagan)
+
 <!--
 # Building static websites in Julia
 
