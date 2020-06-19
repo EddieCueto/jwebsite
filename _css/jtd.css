@@ -17,8 +17,9 @@ body{
   font-family:-apple-system,"helvetica neue",helvetica,roboto,noto,"segoe ui",arial,sans-serif;
   font-size:inherit;
   line-height:1.5;
-  color:#5c5962;
-  background-color:#fff;
+  /* These sections are for the cellphone page */
+  color: #5c5962;
+  background-color: #b9cfe4; /*#6b7a99;#fff;*/
 }
 @media (min-width: 50rem){
   body{
@@ -89,7 +90,7 @@ hr{
   height:1px;
   padding:0;
   margin:2rem 0;
-  background-color:#eeebee;
+  background-color: #6b7a99;/*#eeebee;*/
   border:0;
 }
 
@@ -154,7 +155,7 @@ SIDE BAR
   padding-right: 2rem;
   border:0;
   width: calc(100% - 220px);
-  background-color: white;
+  background-color: #6b7a99;/*white;*/
 }
 .side-bar .menu {
   width: 100%;
@@ -248,8 +249,8 @@ input[type=checkbox]:checked ~ #side-menu{display: block;}
     padding-bottom:15px;
   }
   .side-bar {
-    border-bottom: 1px solid #eeebee;
-    background-color: #b9cfe4;
+    border-bottom: 1px solid #6b7a99; /*#eeebee;*/
+    background-color: #6b7a99;
   }
   .side-bar .header {
     padding-left: 15px;
@@ -282,7 +283,7 @@ input[type=checkbox]:checked ~ #side-menu{display: block;}
     z-index: 101;
     height: 60px;
     max-height: 60px;
-    border-bottom: 1px solid #eeebee;
+    border-bottom: 1px solid #b9cfe4;/*#eeebee;*/
     padding-right:3.5rem;
     padding-left:2rem;
   }
@@ -374,13 +375,13 @@ MAIN CONTENT
     justify-content:flex-end;
     height: -1em;
     background-color: #e8ecef;
-    border-bottom:1px solid #eeebee;
+    border-bottom:1px solid #e8ecef;/*#eeebee;*/
   }
 }
 .main-footer{
   font-size: 14px;
   color: darkgray;
-  border-top: 1px solid #eeebee;
+  border-top: 1px solid #e8ecef;/*#eeebee;*/
   padding-top: 15px;
 }
 
@@ -562,7 +563,7 @@ body { counter-reset: eqnum; }
 
 .page-foot {
   margin-top: 2em;
-  border-top: 1px solid #eeebee;
+  border-top: 1px solid #6b7a99;
   padding-top:20px;
   padding-bottom:15px;
   color: gray;
@@ -756,4 +757,12 @@ ul.menu-list-child-list a.menu-list-link {
   margin-top: -1.9em;
   margin-right: 2em;
   color: #6b7a99;
+}
+
+@media(min-width: 50rem) {
+  #title-header {
+    margin-top: -1.9em;
+    margin-right: 2.0em;
+    color: #6b7a99;
+  }
 }
