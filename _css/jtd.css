@@ -556,10 +556,10 @@ body { counter-reset: eqnum; }
 
 .hljs-metas { color: red; }
 
-.hljs-metap { color: rgb(51, 131, 231); }
+.hljs-metap { color: #426c90; } /*rgb(51, 131, 231); }*/
 
 .hljs-string {color: #ca4418;}
-.hljs-subst { color: inherit;}
+.hljs-subst { color:purple;} /*inherit;}*/
 
 .page-foot {
   margin-top: 2em;
@@ -765,4 +765,8 @@ ul.menu-list-child-list a.menu-list-link {
     margin-right: 2.0em;
     color: #6b7a99;
   }
+}
+
+table, th, td {
+  border: 0px solid black;
 }

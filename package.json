@@ -1,0 +1,32 @@
+{
+  "name": "www.neural-net.dev",
+  "version": "0.0.1",
+  "description": "Eduardo Cueto Mendoza Blog",
+  "main": "index.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "lunr": "^2.3.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EddieCueto/website.git"
+  },
+  "keywords": [
+    "Blog",
+    "Neural",
+    "Networks",
+    "Optimization",
+    "Artificial",
+    "Intelligence"
+  ],
+  "author": "Eduardo Cueto Mendoza",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EddieCueto/website/issues"
+  },
+  "homepage": "https://github.com/EddieCueto/website#readme"
+}
