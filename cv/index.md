@@ -110,3 +110,15 @@ Developed modules for Odoo (Open ERP) using Python, Javascript and PostgreSQL. T
 * Information Theory
 * Julia Programming Language
 * COBOL
+
+~~~
+<hr>
+~~~
+## Open Source Projects
+~~~
+<hr>
+~~~
+
+* Green Flux: Functions that measure the approximate kWh electricity draw and non-embedding Floating Point operations consumed in the training of a Flux.jl model.
+
+* Flux Compress: Functions and structures that extend Flux.jl layers to allow the compression of models.

@@ -6,7 +6,7 @@
 
 This blog is where I intent to update my projects as well as my research. I am doing this right now due to COVID-19 and the fact that the epidemic started when I was about to start a PhD position in TU Dublin.
 Currently I've been working in two "big" projects:
-* `Setting up this blog` and
+* `Setting up this blog` and `translating it to spanish`
 * `Implement complexity measures for Deep Neural Networks (DNN)`.
 
 Both of this projects are being developed with [Julia](https://julialang.org/), language which was introduced to my during my time at Instituto Politécnico Nacional [IPN](https://www.ipn.mx/). The Julia packages that I am either using or extending are [Flux.jl](https://fluxml.ai/) and [Franklin.jl](https://franklinjl.org/).
