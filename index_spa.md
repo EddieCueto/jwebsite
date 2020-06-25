@@ -1,15 +1,17 @@
+
 @def hascode = true
 
-# Welcome to my blog
+# Bienvenido a mi Blog
 
 <!-- \tableofcontents  you can use \toc as well -->
 
-This blog is where I intent to update my projects as well as my research. I am doing this right now due to COVID-19 and the fact that the epidemic started when I was about to start a PhD position in TU Dublin.
-Currently I've been working in two "big" projects:
-* `Setting up this blog` and `translating it to spanish`
-* `Implement compression methods for Deep Neural Networks Models (DNN)`.
+Este blog es donde pretendo dar actualizaciones de mis proyectos y mi trabajo de investigación. He comenzado este blog debido al COVID-19 ya que la pandemia comenzó unos días antes de que realizara mi viaje a la ciudad de Dublín a comenzar mi doctorado. 
+Actualmente trabajo en dos proyectos "grandes":
+* `Actualizar este Blog` and `traducirlo al español`
+* `Implementar métodos de compresión para los Modelos de Redes Neuronales Profundas`.
 
-Both of this projects are being developed with [Julia](https://julialang.org/), language which was introduced to my during my time at Instituto Politécnico Nacional - Center for Computing Research [IPN](https://www.cic.ipn.mx/index.php/es/). The Julia packages that I am either using or extending are [Flux.jl](https://fluxml.ai/) and [Franklin.jl](https://franklinjl.org/).
+Ambos proyectos se están implementado en el lenguaje de programación [Julia](https://julialang.org/), el cual fue presentado por primera vez durante la maestría en el Centro de Investigación en Computación del IPN [CIC-IPN](https://www.cic.ipn.mx/index.php/es/). Los paquetes que estoy utilizando o extendiendo para este fin són 
+Both of this projects are being developed with [Julia](), language which was introduced to my during my time at Instituto Politécnico Nacional. The Julia packages that I am either using or extending are [Flux.jl](https://fluxml.ai/) and [Franklin.jl](https://franklinjl.org/).
 
 A small snippet of Julia:
 ```julia
