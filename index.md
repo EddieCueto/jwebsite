@@ -28,9 +28,26 @@ function len(p::T) where T<:Point
 end
 ```
 
-## 07/04/2021
-OK it is been a while since I wrote on the blog 
+## Arriving to Dublin
 
+OK it is been a while since I wrote on the blog, due to the (COVID-19) pandemic, the projects were maintained by me are on stand by and in 
+need for an umdate now that Julia is on version 1.6.0 (it was 1.4.3 when they started) but I'm still working hard now into a more broader 
+than just compressing a NN architecture. Now, models are so big their number of parameters is huge, just look at GPT-3; this has opened new
+questions on the area specifically how "efficient" are the compression techniques when applied to those huge models.
+
+Thanks to those theoretical advances now the previous problem of reducing the size of a model has become a multivariable optimization 
+problem, where other hyperparameters influence the "efficiency" of how a model performs both during training, and inference. As an example,
+we can mention the amount of FLOPS performed, the amount of energy consumed in Watts, clock time, etc. (all during training and inference).
+
+This means that currently I am surveying SOTA models to compare if their gains on accuracy/precision are indeed valuable with respect the
+previous, for example if the precision of a new model increments 0.0001 than former models but it consumes 100 times the amount of energy or
+then that architecture is not efficient and should only be used on applications where that gain might be required. Also, I am exploring 
+ideas from Topological Data Analysis to try and find smaller architectures that have as good performance and generalization as their more
+parametrized counterparts.
+
+Regarding my move to Dublin was a hassle...to arrive I had to take 3 flights one to Mexico City, then one to Dallas and finally to Dublin 
+at least it wasn't as expensive due to COVID. I haven't been able to travel in Ireland, still on lockdown (08/04/2021) and might continue for
+at least a month.
 
 ## A bit about myself
 
