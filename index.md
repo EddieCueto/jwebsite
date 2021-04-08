@@ -6,7 +6,7 @@
 
 This blog is where I intent to update my projects as well as my research. I am doing this right now due to COVID-19 and the fact that the epidemic started when I was about to start a PhD position in TU Dublin.
 Currently I've been working in two "big" projects:
-* `Setting up this blog` and `translating it to spanish`
+* `Setting up this blog` 
 * `Implement compression methods for Deep Neural Networks Models (DNN)`.
 
 Both of this projects are being developed with [Julia](https://julialang.org/), language which was introduced to my during my time at Instituto Politécnico Nacional - Center for Computing Research [IPN](https://www.cic.ipn.mx/index.php/es/). The Julia packages that I am either using or extending are [Flux.jl](https://fluxml.ai/) and [Franklin.jl](https://franklinjl.org/).
@@ -27,6 +27,10 @@ function len(p::T) where T<:Point
   sqrt(sum(getfield(p, η)^2 for η ∈ fieldnames(T)))
 end
 ```
+
+## 07/04/2021
+OK it is been a while since I wrote on the blog 
+
 
 ## A bit about myself
 

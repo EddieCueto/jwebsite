@@ -1,15 +1,17 @@
 # Eduardo Cueto Mendoza
 
-Juan Buchanan 1225, Frac. Alfa
-Cd. Juarez, Chihuahua 32317
-P: +52 (656) 201-2365
+Flat 2~~~<br/>~~~
+236 North Circular Road~~~<br/>~~~
+Dublin 7, Co. Dublin~~~<br/>~~~
+P: +353 (087) 434-7184~~~<br/>~~~
 cueto303@gmail.com
 
 ~~~
 <hr>
 ~~~
 ##### PhD Researcher
-At the moment doing research on neural networks and convex optimization, learning Julia and COBOL. Playing Red Dead Redemption 2 and L.A. Noir.
+At the moment doing research on neural networks and convex optimization,
+learning Julia and Rust. Playing Red Dead Redemption 2 and L.A. Noir.
 
 ~~~
 <hr>
@@ -23,20 +25,31 @@ At the moment doing research on neural networks and convex optimization, learnin
 ##### Current
 ##### PhD Computer Science
 
-Working on state of the art research in deep neural network model compression. Funding obtained from D-REAL - SFI (Centre for Research Training in Digitally-Enhanced Reality).
-
+My current work explores the interaction of DNN and their energy
+efficiency and size in storage/memory. I am currently exploring methods
+that combine Topological Data Analysis into the generation of slimmer
+architectures, also simultaneously profiling state of the art architectures
+to fully understand the interaction of hardware and the amount of energy
+consumed. The former data is compared with other classical or other variations
+of the architecture to truly see if the increment in accuracy/precision does not
+require an exorbitant amount of energy (compared to our gains).
 
 #### Centro de Investigación en Computación - IPN
 ##### Aug 2016 - Jun 2018
 ##### Master in Computer Science
 
-Learned state of the art machine learning algorithms and natural language processing techniques. Thesis work was done towards the computational relationships of group theory and natural languages.
+Learned state of the art machine learning algorithms and natural language
+processing techniques. Thesis work was done towards the computational
+relationships of group theory and natural languages.
 
 #### Universidad Autónoma de Ciudad Juárez
 ##### Aug 2011 - May 2016
 ##### Bachelor in Mathematics
 
-Learned a variety of methods to prove statements in different areas of mathematics. Optative course work was geared towards applied mathematics: optimization, probability theory, functional analysis, stochastic ODE, etc. Thesis was required for the degree, work was done in stochastic optimization.
+Learned a variety of methods to prove statements in different areas of
+mathematics. Optative course work was geared towards applied mathematics:
+optimization, probability theory, functional analysis, stochastic ODE, etc.
+Thesis was required for the degree, work was done in stochastic optimization.
 
 ~~~
 <hr>
@@ -51,13 +64,20 @@ Learned a variety of methods to prove statements in different areas of mathemati
 ##### Feb 2019 - Mar 2020
 ##### Lead Data Analyst
 
-Applied ML to mine relevant information from our customers and integrate it to our platform called Zahoree. This platform is a customer journey modeling system, my contribution to the team is the processing of all our natural language sources (tickets, complaint emails, and reviews) and transform this data into information that is important for our customers business intelligence.
+Applied ML to mine relevant information from our customers and integrate it to
+our platform called Zahoree. This platform is a customer journey modeling
+system, my contribution to the team is the processing of all our natural
+language sources (tickets, complaint emails, and reviews) and transform this
+data into information that is important for our customers business intelligence.
 
 #### Indboo.
 ##### Jan 2018 - Jan 2019
 ##### Odoo Python Developer
 
-Developed modules for Odoo (Open ERP) using Python, Javascript and PostgreSQL. The team used Agile Scrum and DevOps as the development methodology. Used docker and Git as version control. Started the job remotely. We modified Odoo to adjust it to our customers’ needs.
+Developed modules for Odoo (Open ERP) using Python, Javascript and PostgreSQL.
+The team used Agile Scrum and DevOps as the development methodology. Used docker
+and Git as version control. Started the job remotely. We modified Odoo to adjust
+it to our customers’ needs.
 
 ~~~
 <hr>
@@ -105,7 +125,7 @@ Developed modules for Odoo (Open ERP) using Python, Javascript and PostgreSQL. T
 ~~~
 
 * Neural Networks
-* Convex/Combinatorial Optimization 
+* Convex/Combinatorial Optimization
 * Statistical/Machine Learning
 * Information Theory
 * Julia Programming Language
